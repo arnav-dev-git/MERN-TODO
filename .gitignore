@@ -7,7 +7,7 @@
 
 
 /backend/node_modules
-/todo/node_modules
+
 
 # testing
 /coverage
